@@ -1,0 +1,4 @@
+0-splashscreenbg 1024 400 0 0 444 0 2 0 0 1024 0 1024 400 0 400 canvas 0 17 200 0 442 6 12 0 0 Hello\ World\ Tutorial 1 0 10 1 0 100 graphiclayout 0;
+0-title 114 25 447 39 444 444 2 0 0 114 0 114 25 0 25 canvas 0 17 200 0 6 6 12 0 444 ce_guieditor\ v1.0 1 0 10 1 0 100 graphiclayout 0;
+0-writtenby 248 25 383 77 444 444 2 0 0 248 0 248 25 0 25 canvas 0 17 200 0 6 6 12 0 444 Written\ By:\ Reg\ ScriptAl1as\ Finley 1 0 10 1 0 100 graphiclayout 0;
+0-startbtn 82 25 465 215 444 0 2 0 0 82 0 82 25 0 25 btn 0 17 200 0 6 6 12 0 444 Continue>> 1 0 10 1 0 0 graphiclayout 0;

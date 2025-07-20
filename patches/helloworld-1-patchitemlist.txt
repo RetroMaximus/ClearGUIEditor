@@ -1,0 +1,2 @@
+0-bgcanvas 1024 400 0 0 444 0 2 0 0 1024 0 1024 400 0 400 canvas 0 17 200 0 469 6 12 0 444 GUI\ Editor\ Help 1 0 10 1 0 100 graphiclayout 0;
+0-splashbtn 55 25 20 20 444 0 2 0 0 55 0 55 25 0 25 btn 0 17 200 0 6 6 12 0 444 <<Back 1 0 10 1 0 178 graphiclayout 0;
